@@ -1,7 +1,7 @@
-android-socket.io-file-uploader
+Android socket.io file uploader sample code
 ===============================
 
-This is a test project I did some time back to upload a file from Android device via Socket.IO. Hope this will be usefull for someone else. 
+This is test project I used in http://www.androidwebterminal.com/ to upload a file to NodeJS server via Android device. I thought of putting it in the github so it may help someone else.
 
 Android project requires reference to AndroidAsync project @ https://github.com/koush/AndroidAsync
 
