@@ -5,3 +5,7 @@ This is test project I used in http://www.androidwebterminal.com/ to upload a fi
 
 Android project requires reference to AndroidAsync project @ https://github.com/koush/AndroidAsync
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kakopappa/android-socket.io-file-uploader/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
